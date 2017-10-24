@@ -1,0 +1,58 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	color: #222222;
+}
+h1 { 
+	font-size: 2rem;
+	font-variant: small-caps;
+	font-weight: 400;
+	text-align: center;
+	border-bottom: 2px #aaaaaa solid;
+}
+h2 {
+	font-size: 1.5rem;
+	font-weight: 500;
+	border-bottom: 1px #aaaaaa solid;
+}
+h3 {
+	font-size: 1.3rem;
+	font-weight: 600;
+}
+h4 {
+	font-size: 1rem;
+	font-weight: 600;
+}
+figure { 
+	padding: 15px 40px;
+	margin: 15px;
+	width: 250px;
+	background-color: #eeeeee;
+	border-radius: 3px;
+	border: 1px #dddddd solid;
+	font-weight: 500;
+	font-size: 0.8rem;
+	font-style: italic;
+}
+p {
+	text-align: justify;
+	text-indent: 40px;
+}
+a:link {
+	color: #0088ff;
+	text-decoration: none;
+}
+a:visited{
+	color:green;
+}
+blockquote {
+	margin: 15px;
+	font-style: italic;
+ 	background-color: #eeeeee;
+ 	border-radius: 3px;
+ 	border: 1px #dddddd solid;
+} 
+q {
+	quotes: '«' '»'; 
+	font-style: italic;
+	color: #888888; 
+}
